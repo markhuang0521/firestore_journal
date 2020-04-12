@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728038606851",
+    "firebase_url": "https://journalapp-91007.firebaseio.com",
+    "project_id": "journalapp-91007",
+    "storage_bucket": "journalapp-91007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728038606851:android:b2ae9260068d127678a636",
+        "android_client_info": {
+          "package_name": "com.ming.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728038606851-rjo1hpdiu9df91gr9beg39r4ni8geqq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ming.journalapp",
+            "certificate_hash": "a9e5bf8512398095a0c1723640a22d142ec9e270"
+          }
+        },
+        {
+          "client_id": "728038606851-u5lio3s1rfrgnlk9f605vlsuec1dke8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLQweq336-croOcC_CzinqO3JPQaSqlJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728038606851-u5lio3s1rfrgnlk9f605vlsuec1dke8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
